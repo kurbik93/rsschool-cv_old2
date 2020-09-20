@@ -15,6 +15,8 @@
   * CSS
   * JS
   * Bitrix24
+  * C#
+  * MSQL
 ***
 ## Code examples
  ```
