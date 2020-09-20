@@ -8,7 +8,7 @@
 ***
 ## Info about me
 
-   At the moment I work as a support specialist for the Bitrix24 website. I understand that I lack knowledge in the field of building sites, correct layout and modern technologies. I worked with Oracle DB in the support department of HP Service Desk, worked in the department of geoinformation systems, created geoinformation services.
+   At the moment I work as a support specialist for the Bitrix24 website. I understand that I lack knowledge in the field of building sites, correct layout and modern technologies. I worked with Oracle DB in the support department of HP Service Desk, worked in the department of geoinformation systems, created geoinformation services. I have certificates for Bitrix24 support
 ***
 ## Skils
   * HTML
@@ -43,6 +43,7 @@
   ***
   ## Education
    I graduated from Kazan (Volga Region) Federal University with a degree in mathematics, systems programmer.
+   I have
   ***
   ## English - B1
   ***
