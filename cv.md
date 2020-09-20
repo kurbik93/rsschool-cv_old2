@@ -26,15 +26,12 @@
     <title>Document</title>
 </head>
 <body>
-
 </body>
 </html>
 <form>
-
 <span style="color: #111111; font-size: 20pt;"><b><span style="font-size: 28pt;">#СТОПКОРОНАВИРУС</span></b></span><br>
  <span style="color: #111111; font-size: 20pt;"><br>
  </span>
-
 	<hr>
  <br>
 	<p style="text-align: center;">
